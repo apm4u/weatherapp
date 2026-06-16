@@ -28,7 +28,8 @@ A sleek, responsive, and modern weather application that provides real-time weat
 
 ## 📸 Preview
 
-Add screenshots of your application here.
+<img width="1825" height="846" alt="image" src="https://github.com/user-attachments/assets/a900b55d-5350-4ce9-907c-48dc7b51934b" />
+
 
 ```md
 ![Weather App Screenshot](screenshot.png)
